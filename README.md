@@ -25,7 +25,6 @@ The information displayed of the characters comes from the mentionated API.</br>
 The app uses the following libraries:</br></br>
 
 - <a href="https://insert-koin.io/">Koin</a></br>
-- <a href="https://github.com/Kotlin/kotlinx.coroutines">Kotlin Coroutines</a></br>
 - <a href="https://github.com/square/retrofit">Retrofit2</a></br>
 - <a href="https://github.com/ihsanbal/LoggingInterceptor">LoggingInterceptor - Interceptor for OkHttp3 with pretty logger</a></br>
 - <a href="https://github.com/bumptech/glide">Glide</a></br>
